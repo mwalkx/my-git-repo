@@ -1,4 +1,7 @@
-static void main(argc argv[])
+/* hello world example */
+#include<stdio.h>
+
+main()
 {
-  System.out.println("Hello, World!");
+  printf("Hello, World!");
 }
